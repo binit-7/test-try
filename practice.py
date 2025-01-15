@@ -1,3 +1,4 @@
+# PYTHON SLOT GAME.
 import random
 balance=100
 def spin_row():
